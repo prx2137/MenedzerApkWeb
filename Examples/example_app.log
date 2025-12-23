@@ -1,0 +1,15 @@
+2024-01-15 10:00:01,123 INFO [web-app] Application started successfully on port 8080
+2024-01-15 10:00:02,456 DEBUG [web-app] Database connection established
+2024-01-15 10:00:03,789 INFO [web-app] User 'john_doe' logged in
+2024-01-15 10:00:05,234 WARN [web-app] Cache size approaching limit: 85%
+2024-01-15 10:00:07,891 ERROR [web-app] Database connection timeout - retrying...
+2024-01-15 10:00:08,123 INFO [api-service] Processing request GET /api/users
+2024-01-15 10:00:09,456 DEBUG [api-service] Query parameters: limit=50, offset=0
+2024-01-15 10:00:10,789 ERROR [api-service] Failed to fetch user data: User not found
+2024-01-15 10:00:12,345 INFO [web-app] User session renewed
+2024-01-15 10:00:13,678 WARN [web-app] Slow database query: 2.3s
+2024-01-15 10:00:15,901 INFO [auth-service] Token validation successful"2024-01-15 10:05:00,999 INFO [test-service] Test log entry from command line" 
+"2024-01-15 10:05:00,999 INFO [test-service] Test log entry from command line"
+"2024-01-15 10:05:00,999 INFO [test-service] Test log entry from command line"
+"2024-01-15 10:05:00,999 INFO [test-service] Test log entry from command line"
+"2024-01-15 10:05:00,999 INFO [test-service] Test log entry from command line"
