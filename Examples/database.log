@@ -1,0 +1,21 @@
+2025-12-26 04:32:55,863 WARN [database] Replica sync in progress
+2025-12-26 04:32:55,873 DEBUG [database] Transaction committed
+2025-12-26 04:32:55,884 ERROR [database] Transaction started
+2025-12-26 04:32:55,895 INFO [database] Deadlock resolved
+2025-12-26 04:32:55,905 DEBUG [database] Transaction started
+2025-12-26 04:32:55,916 WARN [database] Replica sync in progress
+2025-12-26 04:32:55,926 DEBUG [database] Slow query detected: 2.5s
+2025-12-26 04:32:55,936 ERROR [database] Transaction committed
+2025-12-26 04:32:55,947 DEBUG [database] Constraint violation: duplicate key
+2025-12-26 04:32:55,957 WARN [database] Replica sync in progress
+2025-12-26 04:32:55,967 ERROR [database] Query cache hit ratio: 85%
+2025-12-26 04:32:55,977 ERROR [database] Replica sync in progress
+2025-12-26 04:32:55,988 INFO [database] Table optimized: user_logs
+2025-12-26 04:32:55,998 DEBUG [database] Backup completed successfully
+2025-12-26 04:32:56,008 ERROR [database] Connection pool exhausted
+2025-12-26 04:32:56,019 DEBUG [database] Connection pool exhausted
+2025-12-26 04:32:56,029 DEBUG [database] Deadlock resolved
+2025-12-26 04:32:56,040 ERROR [database] Slow query detected: 2.5s
+2025-12-26 04:32:56,050 WARN [database] Constraint violation: duplicate key
+2025-12-26 04:32:56,061 WARN [database] Table optimized: user_logs
+2025-12-26 04:32:55,852 ERROR [backend-api] Response time: 120ms

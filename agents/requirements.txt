@@ -1,0 +1,5 @@
+elasticsearch==8.8.0
+PyYAML==6.0
+requests==2.31.0
+mysql-connector-python==8.0.33
+psycopg2-binary==2.9.7

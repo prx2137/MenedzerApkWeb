@@ -1,0 +1,21 @@
+2025-12-26 04:32:55,652 WARN [backend-api] Authentication token validated
+2025-12-26 04:32:55,664 DEBUG [backend-api] Processing GET request to /api/users
+2025-12-26 04:32:55,674 WARN [backend-api] File uploaded: size=2.5MB
+2025-12-26 04:32:55,684 INFO [backend-api] Database connection pool: 10/20 active
+2025-12-26 04:32:55,695 INFO [backend-api] Database connection pool: 10/20 active
+2025-12-26 04:32:55,706 ERROR [backend-api] WebSocket connection established
+2025-12-26 04:32:55,716 INFO [backend-api] Processing GET request to /api/users
+2025-12-26 04:32:55,726 WARN [backend-api] Processing GET request to /api/users
+2025-12-26 04:32:55,737 DEBUG [backend-api] File uploaded: size=2.5MB
+2025-12-26 04:32:55,747 DEBUG [backend-api] Authentication token validated
+2025-12-26 04:32:55,757 DEBUG [backend-api] Response time: 120ms
+2025-12-26 04:32:55,768 WARN [backend-api] WebSocket connection established
+2025-12-26 04:32:55,778 INFO [backend-api] Email sent successfully
+2025-12-26 04:32:55,789 DEBUG [backend-api] Email sent successfully
+2025-12-26 04:32:55,799 INFO [backend-api] Memory usage: 45%
+2025-12-26 04:32:55,810 WARN [backend-api] Database connection pool: 10/20 active
+2025-12-26 04:32:55,820 ERROR [backend-api] Cache miss for key: user_123
+2025-12-26 04:32:55,831 DEBUG [backend-api] File uploaded: size=2.5MB
+2025-12-26 04:32:55,841 ERROR [backend-api] Memory usage: 45%
+2025-12-26 04:32:55,852 ERROR [backend-api] Response time: 120ms
+2025-12-26 04:32:55,852 ERROR [backend-api] Response time: 120ms

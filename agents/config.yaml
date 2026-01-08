@@ -1,0 +1,48 @@
+sources:
+  # Pliki logów
+  - name: "frontend-logs"
+    type: "file"
+    path: "../Examples/frontend_app.log"
+    service: "frontend-ui"
+
+  - name: "backend-logs"
+    type: "file"
+    path: "../Examples/backend_api.log"
+    service: "backend-api"
+
+  - name: "database-logs"
+    type: "file"
+    path: "../Examples/database.log"
+    service: "database"
+
+  # API z SQLite
+  - name: "api-logs"
+    type: "api"
+    url: "http://localhost:3000/api/logs"
+    method: "GET"
+    params:
+      limit: 20
+    interval: 10
+
+  # Elasticsearch jako źródło
+  - name: "elasticsearch-logs"
+    type: "elasticsearch"
+    host: "http://localhost:9200"
+    index: "application-logs"
+    query:
+      match_all: {}
+    size: 50
+
+elasticsearch:
+  host: "http://localhost:9200"
+  index: "application-logs"
+
+agent:
+  name: "multi-source-agent"
+  check_interval: 1
+  max_logs_per_cycle: 1000
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: true

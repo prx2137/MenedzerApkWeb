@@ -1,0 +1,21 @@
+2025-12-26 04:32:55,440 WARN [frontend-ui] Modal opened
+2025-12-26 04:32:55,451 DEBUG [frontend-ui] Route changed to /dashboard
+2025-12-26 04:32:55,462 WARN [frontend-ui] Notification displayed
+2025-12-26 04:32:55,472 DEBUG [frontend-ui] User clicked login button
+2025-12-26 04:32:55,483 INFO [frontend-ui] Modal opened
+2025-12-26 04:32:55,494 DEBUG [frontend-ui] Component rendered
+2025-12-26 04:32:55,505 WARN [frontend-ui] Page loaded successfully
+2025-12-26 04:32:55,515 DEBUG [frontend-ui] Page loaded successfully
+2025-12-26 04:32:55,526 WARN [frontend-ui] Form validation failed
+2025-12-26 04:32:55,536 INFO [frontend-ui] User logged out
+2025-12-26 04:32:55,547 INFO [frontend-ui] Page loaded successfully
+2025-12-26 04:32:55,557 INFO [frontend-ui] Component rendered
+2025-12-26 04:32:55,568 DEBUG [frontend-ui] Notification displayed
+2025-12-26 04:32:55,578 INFO [frontend-ui] Component rendered
+2025-12-26 04:32:55,589 DEBUG [frontend-ui] Component rendered
+2025-12-26 04:32:55,599 WARN [frontend-ui] Page loaded successfully
+2025-12-26 04:32:55,610 INFO [frontend-ui] API call completed
+2025-12-26 04:32:55,620 INFO [frontend-ui] Component rendered
+2025-12-26 04:32:55,631 ERROR [frontend-ui] Notification displayed
+2025-12-26 04:32:55,642 ERROR [frontend-ui] User logged out
+2025-12-26 04:32:55,852 ERROR [backend-api] Response time: 120ms
